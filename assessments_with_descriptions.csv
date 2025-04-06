@@ -1,0 +1,7 @@
+Assessment_ID,Assessment_Name,Category,Difficulty,Description
+1,Python Basics,Coding,Easy,"Introduction to programming in Python, variables, loops, and functions."
+2,Data Structures,Coding,Medium,"Covers arrays, stacks, queues, linked lists, and trees."
+3,Machine Learning,Coding,Hard,"Concepts of supervised and unsupervised learning, algorithms like regression, SVM, etc."
+4,Logical Reasoning,Reasoning,Medium,Analytical thinking and logical pattern-based questions.
+5,Verbal Ability,Language,Easy,"Grammar, vocabulary, comprehension, and sentence formation."
+6,Advanced Grammar,Language,Hard,Advanced coding practices and problem-solving techniques.
